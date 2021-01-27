@@ -56,8 +56,8 @@ public class Figuren extends PApplet
     @Override
     public void setup()
     {
-        zeichneBildC(); // Aufruf deiner Methode
-        //zeichneBildA();
+        //zeichneBildC(); // Aufruf deiner Methode
+        zeichneBildA();
     }
 
     /**
